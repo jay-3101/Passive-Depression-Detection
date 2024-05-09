@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268119961833",
+    "project_id": "suicide-detection-c31c8",
+    "storage_bucket": "suicide-detection-c31c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268119961833:android:453956e2d324b053cbc078",
+        "android_client_info": {
+          "package_name": "com.example.lbp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gmJ0rQJj8WpEEnud-LrF_HhrqrD1eOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
